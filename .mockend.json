@@ -1,6 +1,8 @@
 {
-  "Post": {
-    "title": {"abcde"},
-    "body": {"123123" }
+  "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
   }
 }
