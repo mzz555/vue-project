@@ -1,14 +1,6 @@
    
 {
   "Post": {
-
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
-    }，
      "code": {
          "int": [
         100,
